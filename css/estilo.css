@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+    padding: 0px;
+    margin: 0px;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+
+.c-red{
+    background-color: brown;
+}
+
+.c-blue{
+    background-color: cornflowerblue;
+}
+
+.c-black{
+    background-color: black;
+}
